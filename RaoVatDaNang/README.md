@@ -1,3 +1,2 @@
-# AssignmentFinal
-
-# Anh em clone về rồi code vào phần của mình.
+# RaoVatDa
+Server đang chạy local, lấy 2 server dưới về để test
