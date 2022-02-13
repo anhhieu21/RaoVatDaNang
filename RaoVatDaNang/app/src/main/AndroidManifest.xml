@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dev.assignment">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Assignment"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".activity.ProfileUser"
+            android:exported="true" />
+        <activity
+            android:name=".activity.UpdateUsers"
+            android:exported="true" />
+        <activity
+            android:name=".activity.ProlifeUsersActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity.FacebookLoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity.CodeOtpRegisterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity.RegisterOTPActivity"
+            android:exported="true" />
+
+        <provider
+            android:name="com.facebook.FacebookContentProvider"
+            android:authorities="com.facebook.app.FacebookContentProvider205463141745566"
+            android:exported="true" />
+
+        <activity
+            android:name=".activity.FavoriteDetailActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity.LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.RegisterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity.FavoriteActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity.MainActivity"
+            android:exported="true">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+    </application>
+
+</manifest>

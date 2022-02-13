@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/frmHome"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Trang chủ"/>
+    <item
+        android:id="@+id/frmManagerPost"
+        android:icon="@drawable/ic_post_manager_24"
+        android:title="Quản lý tin"/>
+    <item
+        android:id="@+id/frmPost"
+        android:icon="@drawable/ic_post_24"
+        android:title="Đăng tin"/>
+    <item
+        android:id="@+id/frmNotification"
+        android:icon="@drawable/ic_notification_24"
+        android:title="Thông báo"/>
+    <item
+        android:id="@+id/frmDetail"
+        android:icon="@drawable/ic_more_horiz_24"
+        android:title="Thêm"/>
+
+</menu>

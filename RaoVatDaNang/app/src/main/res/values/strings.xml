@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Cho Tot</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="arrayType1">
+        <item>Xe cộ</item>
+        <item>Đồ điện tử</item>
+        <item>Nội thất</item>
+        <item>Thú cưng</item>
+        <item>Văn phòng phẩm</item>
+    </string-array>
+
+    <string-array name="arrayType2_vehicle">
+        <item>Ô tô</item>
+        <item>Xe máy</item>
+        <item>Xe tải, xe ben</item>
+        <item>Xe điện</item>
+        <item>Xe đạp</item>
+        <item>Phương tiện khác</item>
+        <item>Phụ tùng xe</item>
+    </string-array>
+
+    <string-array name="arrayType2_device">
+        <item>Điện thoại</item>
+        <item>Máy tính bảng</item>
+        <item>Laptop</item>
+        <item>Máy tính để bàn</item>
+        <item>Tivi, Âm thanh</item>
+    </string-array>
+
+    <string-array name="arrayType2_furniture">
+        <item>Bàn ghế</item>
+        <item>Tủ, kệ gia đình</item>
+        <item>Giường, chăn ga gối nệm</item>
+        <item>Dụng cụ nhà bếp</item>
+        <item>Nội thất, đồ gia dụng khác</item>
+    </string-array>
+
+    <string-array name="arrayType2_pet">
+        <item>Chó</item>
+        <item>Mèo</item>
+        <item>Gà</item>
+        <item>Chim</item>
+        <item>Thú cưng khác</item>
+        <item>Phụ kiện, thức ăn, Dịch vụ</item>
+    </string-array>
+
+    <string-array name="arrayType2_stationery">
+        <item>Đồ dùng văn phòng</item>
+        <item>Đồ chuyên dụng, Giống nuôi trồng</item>
+    </string-array>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>

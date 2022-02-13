@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.CodeOtpRegisterActivity">
+    <LinearLayout
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="20sp"
+            android:text="Đăng kí tài khoản"
+            android:textColor="#DAA401"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/cart" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginLeft="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:text="Nhập mã xác nhận đã được
+             gửi tới Email của bạn !!!"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="70dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+        <TextView
+            android:drawableTop="@drawable/oclok"
+            android:id="@+id/tvSecons"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="30dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/lnGropCode"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:paddingRight="25dp"
+        android:paddingLeft="25dp"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/code1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:focusable="true"
+            android:gravity="center"
+            android:textSize="30sp"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <EditText
+            android:id="@+id/code2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:focusable="true"
+            android:gravity="center"
+            android:textSize="30sp"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <EditText
+            android:id="@+id/code3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:focusable="true"
+            android:gravity="center"
+            android:textSize="30sp"
+            tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+        <EditText
+            android:id="@+id/code4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:focusable="true"
+            android:gravity="center"
+            android:textSize="30sp"
+            tools:ignore="SpeakableTextPresentCheck" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_checkCode"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="Xác nhận Email"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bạn đã có tài khoản?"
+            android:layout_gravity="center"
+            />
+        <TextView
+            android:layout_marginTop="50dp"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hoặc sử dụng"
+            android:layout_gravity="center"
+            />
+        <LinearLayout
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="33dp"
+                android:layout_height="36dp"
+                android:src="@drawable/facebook" />
+
+            <ImageView
+                android:layout_width="33dp"
+                android:layout_height="36dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:src="@drawable/google" />
+            <ImageView
+                android:layout_width="33dp"
+                android:layout_height="36dp"
+                android:src="@drawable/zalo" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

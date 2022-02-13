@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/drawable-v24/boder.xml" value="0.22916666666666666" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/drawable-v24/boder_bottom.xml" value="0.22916666666666666" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/drawable/boder_radius.xml" value="0.22916666666666666" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/drawable/button_bg.xml" value="0.22916666666666666" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/drawable/button_bg2.xml" value="0.22916666666666666" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.22916666666666666" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/drawable/shape_bg_search.xml" value="0.22916666666666666" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/activity_main.xml" value="0.11005434782608696" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/activity_pet_directory.xml" value="0.264" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/display_fragment.xml" value="0.1033434650455927" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/fragment_activate.xml" value="0.1033434650455927" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/fragment_detail.xml" value="0.264" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/fragment_display.xml" value="0.11005434782608696" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/fragment_news.xml" value="0.11005434782608696" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/fragment_notification.xml" value="0.264" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/fragment_post.xml" value="0.11005434782608696" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/fragment_post_manager.xml" value="0.2" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/fragment_refuse.xml" value="0.176" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/item_slide.xml" value="0.11005434782608696" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/login_tab_fragment.xml" value="0.11005434782608696" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/refuse_fragment.xml" value="0.11005434782608696" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/layout/signup_tab_fragment.xml" value="0.10400000000000001" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/menu/action_bar_postmanafer.xml" value="0.2125" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task2/AssignmentFinal/app/src/main/res/menu/bottom_main.xml" value="0.2125" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable-v24/boder.xml" value="0.24791666666666667" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable-v24/boder_bottom.xml" value="0.2911458333333333" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable-v24/boder_radius_red.xml" value="0.2911458333333333" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable-v24/boder_radius_yellow.xml" value="0.2911458333333333" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable-v24/boder_right.xml" value="0.2911458333333333" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable-v24/boder_top.xml" value="0.2911458333333333" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable/boder_radius.xml" value="0.2911458333333333" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable/boder_radius_5dp.xml" value="0.24791666666666667" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable/boder_radius_dotted.xml" value="0.24791666666666667" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable/ic_attractions.xml" value="0.2911458333333333" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable/ic_back_24.xml" value="0.2911458333333333" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable/ic_baseline_attractions_24.xml" value="0.25104166666666666" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2911458333333333" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable/ic_hearts_border.xml" value="0.2911458333333333" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable/ic_launcher_background.xml" value="0.11203703703703703" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable/ic_pets_24.xml" value="0.2441025641025641" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable/ic_post_manager_24.xml" value="0.2911458333333333" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable/ic_visibility_off_24.xml" value="0.2441025641025641" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable/ic_visibility_off_white_24.xml" value="0.2441025641025641" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable/shape_bg_search.xml" value="0.2911458333333333" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/drawable/yelow.xml" value="0.2911458333333333" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/activity_login.xml" value="0.24592391304347827" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/activity_main.xml" value="0.16530797101449277" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/activity_register.xml" value="0.1381340579710145" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/display_fragment.xml" value="0.11231884057971014" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/fragment_activate.xml" value="0.24592391304347827" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/fragment_detail.xml" value="0.264" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/fragment_display.xml" value="0.24592391304347827" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/fragment_home.xml" value="0.13405797101449277" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/fragment_houseware.xml" value="0.13405797101449277" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/fragment_news.xml" value="0.24592391304347827" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/fragment_notification.xml" value="0.20516304347826086" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/fragment_pet.xml" value="0.2" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/fragment_pet_detail.xml" value="0.264" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/fragment_post.xml" value="0.24592391304347827" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/fragment_post_display.xml" value="0.275" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/fragment_post_display_detail.xml" value="0.264" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/fragment_post_manager.xml" value="0.264" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/fragment_post_update.xml" value="0.2" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/fragment_refuse.xml" value="0.1" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/ic_upload_file_24.xml" value="0.1431159420289855" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/item_houseware.xml" value="0.2" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/item_pet.xml" value="0.264" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/item_post_display.xml" value="0.2" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/item_product.xml" value="0.264" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/item_slide.xml" value="0.14266304347826086" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/refuse_fragment.xml" value="0.2" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/layout/spinner_layout.xml" value="0.1381340579710145" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/menu/action_bar_petdetail.xml" value="0.275" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/menu/action_bar_post.xml" value="0.23177083333333334" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/menu/action_bar_postmanafer.xml" value="0.275" />
+        <entry key="..\:/DU AN TOT NGHIEP/Task3/AssignmentFinal/app/src/main/res/menu/bottom_main.xml" value="0.275" />
+        <entry key="..\:/DU AN TOT NGHIEP/Test/AssignmentFinal/app/src/main/res/drawable-v24/boder.xml" value="0.14814814814814814" />
+        <entry key="..\:/DU AN TOT NGHIEP/Test/AssignmentFinal/app/src/main/res/drawable-v24/boder_bottom.xml" value="0.14814814814814814" />
+        <entry key="..\:/DU AN TOT NGHIEP/Test/AssignmentFinal/app/src/main/res/drawable-v24/boder_circle.xml" value="0.26256410256410256" />
+        <entry key="..\:/DU AN TOT NGHIEP/Test/AssignmentFinal/app/src/main/res/drawable-v24/hover.xml" value="0.26256410256410256" />
+        <entry key="..\:/DU AN TOT NGHIEP/Test/AssignmentFinal/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26666666666666666" />
+        <entry key="..\:/DU AN TOT NGHIEP/Test/AssignmentFinal/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.26666666666666666" />
+        <entry key="..\:/DU AN TOT NGHIEP/Test/AssignmentFinal/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26666666666666666" />
+        <entry key="..\:/DU AN TOT NGHIEP/Test/AssignmentFinal/app/src/main/res/drawable/select_unselect.xml" value="0.26666666666666666" />
+        <entry key="..\:/DU AN TOT NGHIEP/Test/AssignmentFinal/app/src/main/res/layout/activity_login.xml" value="0.14990942028985507" />
+        <entry key="..\:/DU AN TOT NGHIEP/Test/AssignmentFinal/app/src/main/res/layout/activity_main.xml" value="0.14990942028985507" />
+        <entry key="..\:/DU AN TOT NGHIEP/Test/AssignmentFinal/app/src/main/res/layout/activity_register.xml" value="0.14990942028985507" />
+        <entry key="..\:/DU AN TOT NGHIEP/Test/AssignmentFinal/app/src/main/res/layout/fragment_detail.xml" value="0.264" />
+        <entry key="..\:/DU AN TOT NGHIEP/Test/AssignmentFinal/app/src/main/res/layout/fragment_home.xml" value="0.14990942028985507" />
+        <entry key="..\:/DU AN TOT NGHIEP/Test/AssignmentFinal/app/src/main/res/layout/layout.xml" value="0.13496376811594202" />
+        <entry key="..\:/DU AN TOT NGHIEP/datn/AssignmentFinal/app/src/main/res/layout/activity_login.xml" value="0.144" />
+        <entry key="..\:/DU AN TOT NGHIEP/datn/AssignmentFinal/app/src/main/res/layout/activity_main.xml" value="0.136" />
+        <entry key="..\:/DU AN TOT NGHIEP/datn/AssignmentFinal/app/src/main/res/layout/fragment_detail.xml" value="0.12183383991894631" />
+        <entry key="..\:/DU AN TOT NGHIEP/datn/AssignmentFinal/app/src/main/res/layout/fragment_post_manager.xml" value="0.13360507246376813" />
+        <entry key="..\:/DoAn/app/src/main/res/drawable/shape_bg_search.xml" value="0.188" />
+        <entry key="..\:/DoAn/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/DoAn/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/DoAn/app/src/main/res/layout/item_slide.xml" value="0.22826086956521738" />
+        <entry key="..\:/RaoVatDaNang/AssignmentFinal-hieuTestAll/app/src/main/res/layout/fragment_detail.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/drawable-v24/boder.xml" value="0.2703125" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/drawable-v24/boder_bottom.xml" value="0.2703125" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/drawable/button_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/activity_login.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/button_houseware.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/display_fragment.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/fragment_activate.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/fragment_detail.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/fragment_display.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/fragment_home.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/fragment_houseware.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/fragment_news.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/fragment_notification.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/fragment_post.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/fragment_post_manager.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/fragment_refuse.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/item_houseware.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/item_slide.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/login_tab_fragment.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/refuse_fragment.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/layout/signup_tab_fragment.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/menu/action_bar_postmanafer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/AssignmentFinal/app/src/main/res/menu/bottom_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/leluo/AndroidStudioProjects/Assignment/app/src/main/res/drawable/select_unselect.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/leluo/AndroidStudioProjects/Assignment/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/leluo/AndroidStudioProjects/Assignment/app/src/main/res/layout/fragment_detail.xml" value="0.1" />
+        <entry key="..\:/Users/leluo/AndroidStudioProjects/Assignment/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/leluo/AndroidStudioProjects/Assignment/app/src/main/res/layout/fragment_notification.xml" value="0.1" />
+        <entry key="..\:/Users/leluo/AndroidStudioProjects/Assignment/app/src/main/res/layout/fragment_post.xml" value="0.1" />
+        <entry key="..\:/Users/leluo/AndroidStudioProjects/Assignment/app/src/main/res/layout/fragment_post_manager.xml" value="0.1" />
+        <entry key="..\:/Users/leluo/AndroidStudioProjects/Assignment/app/src/main/res/menu/bottom_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
